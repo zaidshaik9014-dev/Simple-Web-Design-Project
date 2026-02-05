@@ -29,6 +29,11 @@
     border: 2px solid transparent;
 }
 
+.nav-signin p {
+    color: white;
+    text-decoration: none;
+}
+
 .border:hover {
     border: 2px solid white;
 }
